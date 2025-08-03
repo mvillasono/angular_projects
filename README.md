@@ -12,28 +12,13 @@ Este repositorio contiene material de Angular. Cada rama del repositorio incluye
 - Node.js y npm instalados.
 - Conocimientos básicos de JavaScript, HTML y CSS.
 
-## Cómo usar este repositorio
-
-1. Clona el repositorio:
-   ```bash
-   git clone <angular_projects>
-   ```
-2. Cambia a la rama deseada:
-   ```bash
-   git checkout <gifs-app>
-   ```
-3. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-4. Inicia el servidor de desarrollo:
-   ```bash
-   npm start
-   ```
-
 ## Recursos adicionales
 
 - [Documentación oficial de Angular](https://angular.io/docs)
 - [Guía de inicio rápido de Angular](https://angular.io/start)
+
+## Aplicativos disponibles
+
+- **gifs-app**: Este aplicativo se encuentra en la carpeta `src/app/gifs-app` y está diseñado para explorar y buscar GIFs animados utilizando la API de Giphy.
 
 ¡Disfruta aprendiendo Angular!
