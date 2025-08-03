@@ -1,6 +1,6 @@
 # Curso de Angular
 
-Este repositorio contiene material de Angular. Cada rama del repositorio incluye un aplicativo Angular diferente, diseñado para enseñar y practicar conceptos específicos del framework.
+Este repositorio contiene material de Angular. Cada carpeta en el repositorio incluye un aplicativo Angular diferente, diseñado para enseñar y practicar conceptos específicos del framework.
 
 ## Estructura del repositorio
 
