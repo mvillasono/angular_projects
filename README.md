@@ -19,6 +19,6 @@ Este repositorio contiene material de Angular. Cada rama del repositorio incluye
 
 ## Aplicativos disponibles
 
-- **gifs-app**: Este aplicativo se encuentra en la carpeta `src/app/gifs-app` y está diseñado para explorar y buscar GIFs animados utilizando la API de Giphy.
+- **gifs-app**: Este aplicativo se encuentra en la carpeta `gifs-app` y está diseñado para explorar y buscar GIFs animados utilizando la API de Giphy.
 
 ¡Disfruta aprendiendo Angular!
